@@ -19,10 +19,10 @@ const Docdiv = () => {
     <h1 className="lg:text-[3.313em] text-[2.1em] text-[#000] font-custom7 pt-3 leading-[1.2] lg:w-[500px] w-72 ">
       Unlock your Tribal Healthcare Facility’s Full Potential
     </h1>
-    <p className="text-[#4d595a] text-[1.25em] font-custom4 pt-3 leading-[1.5] lg:w-[660px] w-[330px]">
+    <p className="text-[#4d595a] text-[1.25em] font-custom4 pt-3 leading-[1.5] lg:w-[660px] w-[330px] ">
       We are here to help empower healthcare leaders to drive excellence, overcome challenges, and create thriving communities with our proprietary expert-driven consulting and SaaS solutions.
     </p>
-    <button className="bg-[#2a8b8c] font-bold text-[1.1em] text-white px-4 py-2 rounded-md mt-3 shadow-md shadow-slate-300">
+    <button className=" bg-[#2a8b8c] font-bold text-[1.1em] text-white px-4 py-2 rounded-md mt-3 shadow-md shadow-slate-300">
       Get Started
     </button>
   </div>

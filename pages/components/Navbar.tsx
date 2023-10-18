@@ -24,7 +24,7 @@ const Navbar = () => {
               </div>
               <a>Login</a>
               </div>
-            <ul className={`hidden lg:flex h-fit !mb-0`} >
+            <ul className={`hidden lg:flex h-fit !mb-0 `} >
               <li>About</li>
               <li>Pricing</li>
               <li>Contact</li>
