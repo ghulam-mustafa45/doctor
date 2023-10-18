@@ -25,13 +25,13 @@ const Howsolution = () => {
             </div>
 
             <div className='text-center bg-white lg:w-1/3 w-[18rem] sm:m-auto rounded-xl py-4 lg:ml-8 shadow-md mb-6'>
-                <img className='w-36 pb-2 m-auto' src="./images/Discover.png" alt="error" />
+                <img className='w-36 pb-2 m-auto' src="./images/discover.png" alt="error" />
                 <h1 className='text-[2em] font-custom6 text-[#000] pt-2 m-auto'>Discover</h1>
                 <p className='text-[#4d595a] text-[1.25em] leading-[1.5] font-custom4 w-52 pt-2 m-auto'>and <b> quantify </b> any potential vulnerabilities</p>
             </div>
 
             <div className='text-center bg-white lg:w-1/3 w-[18rem] sm:m-auto rounded-xl py-4 lg:ml-8 shadow-md'>
-                <img className='w-36 pb-2 m-auto' src="./images/Develop.png" alt="error" />
+                <img className='w-36 pb-2 m-auto' src="./images/develop.png" alt="error" />
                 <h1 className='text-[2em] font-custom6 text-[#000] pt-2 m-auto'>Develop</h1>
                 <p className='text-[#4d595a] text-[1.25em] leading-[1.5] font-custom4 w-48 pt-2 m-auto'>a plan of <b> action </b> that empowers leadership</p>
             </div>
