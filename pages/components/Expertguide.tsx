@@ -10,17 +10,13 @@ const Expertguide = () => {
                         <img className=' lg:w-[85%] relative  rounded-3xl lg:h-[650px] w-48 lg:mt-[-2rem] z-10' src="./images/empathy-lg.28d414d4.jpg" alt="error" />
                     </div>
 
-                    <div className='w-[80%] m-auto lg:hidden pt-9 sm:hidden' id='pic-mbl'>
-                      <img className='rounded-3xl' style={{ height: '230px', width: '100%' }} src="./images/empathy-lg.28d414d4.jpg" alt="error" />
+                    <div className='w-[95%] m-auto lg:hidden pt-9 sm:hidden block' id='pic-mbl'>
+                      <img className='rounded-3xl m-auto' style={{ height: '260px', width:'75%' }} src="./images/empathy-lg.28d414d4.jpg" alt="error" />
                     </div>
-                    <div className='sm:w-[80%] m-auto lg:hidden pt-9  hidden' id='pic-mbl'>
-                      <img className='rounded-3xl' style={{ height: '230px', width: '100%' }} src="./images/empathy-lg.28d414d4.jpg" alt="error" />
-                    </div>
-
-
-                    <div className=' mt-[-380px] hidden sm:block ' id='chart '>
-                      <img src="./images/chart.svg" alt="error" />
-                    </div>
+                   
+           <div className=' mt-[-380px] hidden sm:block ' id='chart '>
+             <img src="./images/chart.svg" alt="error" />
+           </div>
             </div>
 
             <div className='lg:w-[500px] pt-5 lg:absolute lg:ml-[50%] text-center lg:text-left'>
