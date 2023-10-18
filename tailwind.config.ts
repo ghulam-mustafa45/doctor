@@ -13,6 +13,30 @@ const config: Config = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
+      fontWeight: {
+        custom5: '500',
+        custom6: '600',
+        custom7: '700',
+        custom8: '800',
+        custom9: '900',
+        custom4: '400', // You can set the value to your desired font weight
+      },
+      fontFamily: {
+        poppins: [
+          'Poppins',
+          '-apple-system',
+          'BlinkMacSystemFont',
+          'Segoe UI',
+          'Roboto',
+          'Helvetica Neue',
+          'Arial',
+          'sans-serif',
+          'Apple Color Emoji',
+          'Segoe UI Emoji',
+          'Segoe UI Symbol',
+        ],
+        sans: ["Open Sans", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"],
+      },
     },
   },
   plugins: [],
